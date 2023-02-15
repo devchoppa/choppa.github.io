@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    line-height: 1.5;
+  
+    background-color: #f9f9f9;
+    color: #333333;
+  
+    width: 980px;
+    margin: 0 auto;
+  }
+
+.first h1, .first h2 {
+    text-align: center;
+}
+
+main h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #0067cc;
+}
+
+main h2 {
+  font-size: 18px;
+  font-style: italic;
+  color: #074c9f;
+}
+
+main hr {
+  border: 1px solid #d6d6d6;
+}
+
+main section h2 {
+  font-size: 20px;
+  font-weight: 500;
+  color: #333333;
+}
+
+main section li {
+  font-size: 16px;
+  font-weight: 400;
+  color: #848989;
+  margin-top: 10px;
+  padding-left: 10px;
+}
+
+main section p {
+  font-size: 16px;
+  font-style: italic;
+  line-height: 22px;
+  color: #4e4e4e;
+  margin-top: 20px;
+}
